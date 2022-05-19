@@ -1,5 +1,5 @@
 # Blog
-I first learned about HTML and CSS when I discovered blogging when I was 13 years old. This is my attempt to recreate one of the websites I spent most of my time when I was blogging ; Blogger.com. 
+I first learned about HTML and CSS when I discovered blogging when I was 13 years old. This is my attempt to recreate one of the websites I spent most of my time on when I was blogging ; Blogger.com. 
 
 Built on **ReactJS** and styled with **CSS**, this project is currently still a work in progress. Next is to add back end so that the following features can be added:
 <ul>
